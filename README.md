@@ -3,7 +3,7 @@ Edited and Improved by Mokh_Radi
 
 ## Install
 ```bash
-git clone https://github.com/nimaftf/newtab.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/nimaftf/newtab.git && cd newtab && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
