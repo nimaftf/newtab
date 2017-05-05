@@ -3,13 +3,13 @@ Edited and Improved by Mokh_Radi
 
 ## Install
 ```bash
-git clone https://github.com/Hajimokhradi/tabnew.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/nimaftf/newtab.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
 lua creator.lua
 Auto Detected Tabchi ID : 0
-Enter Full Sudo ID : 91054649
+Enter Full Sudo ID : 119953172
 Done!
 New Tabchi Created...
 ID : 0
@@ -26,6 +26,6 @@ use `./telegamer.sh ` for Autolaunch
 
 ## Developers
 
- * [Mokh_Radi](https://telegram.me/Bot_mebot)
+ * [nima](https://telegram.me/nimaftf)
 
-### Powered by [Mokh_Radi](https://telegram.me/Bot_mebot)
+### Powered by [nima](https://telegram.me/iranxfun)
